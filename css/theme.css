@@ -30,6 +30,9 @@ img {
 span.heading {
   vertical-align: middle; }
 
+span.underline {
+  border-bottom: solid 5px #4BBDAB; }
+
 img.heading {
   height: 45px;
   width: auto;
@@ -38,6 +41,11 @@ img.heading {
 img.icon {
   width: 120px;
   margin: 30px !important; }
+
+img.icon200 {
+  width: 200px;
+  border-style: none !important;
+  box-shadow: none !important; }
 
 img.image {
   width: 600px;
