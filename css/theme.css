@@ -33,6 +33,9 @@ span.heading {
 span.underline {
   border-bottom: solid 5px #4BBDAB; }
 
+span.nonsplit {
+  display: inline-block; }
+
 img.heading {
   height: 45px;
   width: auto;
