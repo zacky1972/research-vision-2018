@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "research-vision-2018",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "zacky1972",
+    "githubRepository": "research-vision-2018"
+  }
+}
